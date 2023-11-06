@@ -1,6 +1,5 @@
-# Fitting Poisson  distribution
-# EX.NO:
-# DATE: 
+# EX.NO: Fitting Poisson  distribution
+# DATE: 15.09.23
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -34,6 +33,8 @@ The Poisson distribution is the discrete probability distribution of the number 
 ```
 DEVELOPED BY: SHALINI.K
 REGISTER NUMBER:212222240095
+```
+```py
 import numpy as np
 import math
 import scipy.stats
@@ -75,7 +76,6 @@ else:
 
 ![image](https://github.com/shalinikannan23/Poisson_distribution/assets/118656529/cb0b0baf-34f5-45d0-8acd-71cf2dac231b)
 
-# Results
+# Result:
 
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
- 
